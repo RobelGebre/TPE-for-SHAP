@@ -10,7 +10,7 @@ Pleae use this reference to site the abstract when using TPE [*will be available
 
 ## Backgroud
 
-SHAP (SHapley Additive exPlanations) offer a way to quantify the impact of individual features on model predictions.The SHAP package provides several useful tools such as summary plots, decision plots, dependency plots, and cohort analysis. TPE is based on depenency plots which s*how the effect a single feature has on the predictions made by the model.* TPE is an analytical approach that can identify critical points (maxima, minma and saddle points) of a predictor feature varaible that indicate a change in the prediction.
+SHAP (SHapley Additive exPlanations) offer a way to quantify the impact of individual features on model predictions.The SHAP package provides several useful tools such as summary plots, decision plots, dependency plots, and cohort analysis. TPE is based on depenency plots which s*how the effect a single feature has on the predictions made by the model.* TPE is an analytical approach that can identify critical points (maxima, minma and saddle points) of a predictor feature that indicate a change in the prediction.
 
 ## Algorithm
 
