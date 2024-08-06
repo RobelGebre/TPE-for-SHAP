@@ -4,9 +4,10 @@ TPE is an automated way of identifying critical points (maxima, minma and saddle
 
 ## Citation
 
-Abstract accepted in Alzheimer's Association International Conference (AAIC) for summer 2024.
+Abstract accepted in Alzheimer's Association International Conference (AAIC) for summer 2024. 
+*https://alz.confex.com/alz/2024/meetingapp.cgi/Paper/90697*
 
-Pleae use this reference to site the abstract when using TPE [*will be available once published*]
+Please use this reference to site the abstract when using TPE [*will be available once published*]
 
 ## Backgroud
 
