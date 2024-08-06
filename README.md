@@ -1,6 +1,6 @@
 # Transition Point Estimator (TPE)
 
-TPE is an automated way of identifying critical points (maxima, minma and saddle points) of a predictor varaible that indicate a change in prediction.
+Transition point estimator is algorithm for identifying critical points (maxima, minma and saddle points) of an input or predictor varaible that indicate a significant impact in prediction of a target variable in a machine learning model.
 
 ## Citation
 
