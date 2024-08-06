@@ -7,7 +7,7 @@ Transition point estimator is algorithm for identifying critical points (maxima,
 Abstract accepted in Alzheimer's Association International Conference (AAIC) for summer 2024. 
 *https://alz.confex.com/alz/2024/meetingapp.cgi/Paper/90697*
 
-Please use this reference to site the abstract when using TPE [*will be available once published*]
+Please use this reference to site the abstract when using TPE [*DOI will be available once published*]
 
 ## Backgroud
 
